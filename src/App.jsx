@@ -42,7 +42,7 @@ function App() {
     <div className="min-h-screen bg-gray-900 py-8 flex flex-col justify-between items-center">
       <div className="max-w-3xl m-auto flex flex-col items-center">
         <h1 className="text-5xl font-bold text-center text-blue-600">
-          GitHub User Search
+          GitHub User Hunt
         </h1>
         <form onSubmit={handleSubmit} className="m-4 flex w-[70%]">
           <input
