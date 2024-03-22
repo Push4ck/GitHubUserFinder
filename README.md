@@ -17,7 +17,7 @@ GitHubUserFinder is a simple yet powerful tool that allows you to search for Git
 - **React Icons**: Used for incorporating icons into the application for enhanced user experience. ✨
 
 ## Getting Started
-You can access [GitHubUserFinder](https://your-netlify-url.netlify.app) directly. Simply enter a GitHub username to start exploring! 🚪
+You can access [GitHubUserFinder](https://github-user-hunt.netlify.app) directly. Simply enter a GitHub username to start exploring! 🚪
 
 ## Connect with Me
 Have any questions, feedback, or just want to say hi? Feel free to connect with me!
