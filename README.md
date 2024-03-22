@@ -1,9 +1,9 @@
-# GitHubUserFinder 🌟
+# GitHubUserHunt 🌟
 
-Welcome to GitHubUserFinder, a ReactJS web application built to help you find GitHub users with ease! 👨‍💻🔍
+Welcome to GitHubUserHunt, a ReactJS web application built to help you find GitHub users with ease! 👨‍💻🔍
 
 ## About
-GitHubUserFinder is a simple yet powerful tool that allows you to search for GitHub users by their username. Whether you're looking to connect with fellow developers, explore interesting projects, or simply satisfy your curiosity, GitHubUserFinder has got you covered! 🚀
+GitHubUserHunt is a simple yet powerful tool that allows you to search for GitHub users by their username. Whether you're looking to connect with fellow developers, explore interesting projects, or simply satisfy your curiosity, GitHubUserHunt has got you covered! 🚀
 
 ## Features
 - Search for GitHub users by username
@@ -17,7 +17,7 @@ GitHubUserFinder is a simple yet powerful tool that allows you to search for Git
 - **React Icons**: Used for incorporating icons into the application for enhanced user experience. ✨
 
 ## Getting Started
-You can access [GitHubUserFinder](https://github-user-hunt.netlify.app) directly. Simply enter a GitHub username to start exploring! 🚪
+You can access [GitHubUserHunt](https://github-user-hunt.netlify.app) directly. Simply enter a GitHub username to start exploring! 🚪
 
 ## Connect with Me
 Have any questions, feedback, or just want to say hi? Feel free to connect with me!
